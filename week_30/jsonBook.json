@@ -1,0 +1,37 @@
+[ 
+	{
+		name: "Alex", 
+		owner: "My Co", 
+		phone: "7424611", 
+		address: "Minsk", 
+		business: "builder" 
+	},
+ 	{
+		name: "Liza", 
+		owner: "My Co", 
+		phone: "7424595", 
+		address: "Minsk", 
+		business: "shtukatur" 
+	},
+ 	{
+		name: "John", 
+		owner: "GC magazine", 
+		phone: "5765832764", 
+		address: "New-York", 
+		business: "director" 
+	},
+ 	{
+		name: "Frank", 
+		owner: "Slava Pracy", 
+		phone: "55766", 
+		address: "Kopyl", 
+		business: "correspondent" 
+	},
+ 	{
+		name: "Zina", 
+		owner: "SPK Skabin", 
+		phone: "47665", 
+		address: "Skabin", 
+		business: "storozh" 
+	}
+ ]
